@@ -1,4 +1,4 @@
-# 🧠 Capstone Project – NLP-Based Chatbot for Industrial Safety
+# 🧠 Capstone Project – NLP Chatbot for Industrial Safety Risk Classification and Recommendation
 
 ## 📌 Project Overview
 
